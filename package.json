@@ -2,6 +2,7 @@
   "name": "invoices-printing-service",
   "version": "1.0.0",
   "description": "",
+  "license": "MIT",
   "main": "module.js",
   "private": true,
   "scripts": {
